@@ -24,7 +24,7 @@ XYZ     !(!X & Y)  (X & !Z)   Res
 
 v)Res= X | !Y  & !(X | !Z).
 
-XYZ      X | !Y  !(X | !Z)    Res
+XYZ      X | !Y  !(X | !Z)    Resu
 000	        1		 0		  0
 001	        1		 1		  1
 010	        0		 0		  0
