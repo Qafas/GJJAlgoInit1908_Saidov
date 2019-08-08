@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N48.MaximalNumber an" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N49.MaximalNumber an" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N53.Reverse an" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N55.Perevod c" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N50.AkkermanFunction m" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N43.Quantity n" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N44.Summa n" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N45.Arifmet n" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N46.Geometr n" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N50.AkkermanFunction n" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N52.Reversenumber n" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N55.Perevod n" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N43.Summa qunum" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N42.Pow s" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N56.Prost s" />
+      <entry_point TYPE="field" FQNAME="com.getjavajob.training.algo.init.saidovrs.TaskCH10N56.Prost ss" />
+    </entry_points>
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N50.AkkermanFunction" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N45.Arifmet" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.Employee" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N46.Geometr" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.oop.HelloInt" method="hello" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.oop.HelloInt" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.oop.OOPTest" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH03N029" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH03N029Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N41" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N42" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N43" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N44" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N45" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N46" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N47" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N48" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N49" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N50" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N51ActualOutputs" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N52" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N53" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N55" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N56" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH11N158" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH11N158Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH11N245" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH11N245Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N23" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N234" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N234Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N23Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N24" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N24Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N25" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N28" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N28Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N63" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N63Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH13N12" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH13N12Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH1N003" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH1N17" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N13" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N13Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N31" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N31Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N39" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N39Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N43" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N43Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29a" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29b" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29d" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29e" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29g" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29v" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N106" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N106Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N115" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N115Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N15" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N15Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N33" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N33Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N36" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N36Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N67" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N67Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N10" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N10Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N38" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N38Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N64" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N64Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH6N8" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH6N87" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH6N87Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH6N8Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N107" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N107Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N15" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N15Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N166" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N166Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N17" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N17Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N185" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N185Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N22" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N22Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N42" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N42Test" method="main" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N48.MaximalNumber" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N49.MaximalNumber" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.oop.OOPTest" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N55.Perevod" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N42.Pow" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N56.Prost" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N43.Quantity" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N53.Reverse" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N52.Reversenumber" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.Employee" method="setAddress" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.Employee" method="setBeginInMonth" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.Employee" method="setBeginInYear" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.Employee" method="setFathersname" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.Employee" method="setName" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.Employee" method="setSurname" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N43.Summa" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N44.Summa" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH03N029" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH03N029Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N41" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N42" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N43" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N44" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N45" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N46" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N47" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N48" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N49" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N50" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N51ActualOutputs" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N52" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N53" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N55" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH10N56" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH11N158" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH11N158Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH11N245" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH11N245Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N23" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N234" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N234Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N23Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N24" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N24Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N25" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N28" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N28Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N63" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH12N63Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH13N12" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH13N12Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH1N003" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH1N17" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N13" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N13Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N31" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N31Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N39" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N39Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N43" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH2N43Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29a" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29b" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29d" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29e" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29g" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH3N29v" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N106" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N106Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N115" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N115Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N15" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N15Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N33" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N33Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N36" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N36Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N67" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH4N67Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N10" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N10Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N38" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N38Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N64" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH5N64Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH6N8" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH6N87" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH6N87Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH6N8Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N107" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N107Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N15" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N15Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N166" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N166Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N17" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N17Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N185" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N185Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N22" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N22Test" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N42" />
+    <pattern value="com.getjavajob.training.algo.init.saidovrs.TaskCH9N42Test" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../yuriy/test-project/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
