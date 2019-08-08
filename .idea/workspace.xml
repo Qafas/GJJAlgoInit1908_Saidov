@@ -5,116 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf6f6177-72b2-4780-90a4-ef13b44fd5f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/algo-init.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/Database.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH01N003.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH01N017.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH02N013.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH02N013Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH02N031.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH02N031Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH02N039.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH02N039Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH02N043.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH02N043Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH03N029.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH03N029Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N015.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N015Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N033.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N033Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N036.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N036Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N067.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N067Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N106.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N106Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N115.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH04N115Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH05N010.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH05N010Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH05N038.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH05N038Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH05N064.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH05N064Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH06N008.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH06N008Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH06N087.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH06N087Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N015.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N015Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N017.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N017Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N022.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N022Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N042.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N042Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N107.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N107Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N166.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N166Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N185.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH09N185Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N41$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N41$Factorial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N41.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N42$Pow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N42.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N43$Quantity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N43$Summ.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N43.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N44$DigitalRoot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N44.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N45$AriphmetProgression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N45.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N46$GeometricalProgression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N46.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N47$Fibonacci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N47.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N48$MaximalNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N48.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N49$MaximalNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N49.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N50$AckermanFunction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N50.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N51ActualOutputs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N52$ReverseNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N52.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N53$ReverseArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N53.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N55$Convertion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N55.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N56$PrimeNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH10N56.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH11N158.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH11N158Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH11N245.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH11N245Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N023.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N023Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N024.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N024Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N025.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N028.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N028Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N063.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N063Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N234.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH12N234Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH13N12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/TaskCH13N12Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/oop/Candidate$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/oop/Candidate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/oop/CandidateAm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/oop/CandidateGJJ.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/oop/Employers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/oop/HelloInt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/oop/Nationaly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/init/saidovrs/oop/OOPTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/getjavajob/training/algo/util/Assert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -129,7 +20,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -184,6 +75,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -276,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -369,7 +264,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,7 +274,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.atlassian.bitbucket.linky" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -493,13 +387,20 @@
       <option name="project" value="LOCAL" />
       <updated>1565263257852</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1565263443008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565263443008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23880596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24413647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -518,7 +419,7 @@
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159913" side_tool="true" weight="0.32900432" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32900432" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4989339" weight="0.32900432" />
       <window_info anchor="bottom" id="PMD" order="14" weight="0.32900432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -530,6 +431,46 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
